@@ -47,6 +47,7 @@ items:
  - Esenthel/EsenthelEngine
  - aws/lumberyard
  - FlaxEngine/FlaxEngine
+ - o3de/o3de
 display_name: Game Engines
 created_by: leereilly
 ---
